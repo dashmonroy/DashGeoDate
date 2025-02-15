@@ -1,6 +1,6 @@
 # 📌 DashGeoDate: Métodos Correctos para Ubicar Datos Geográficos
 
-![Ejemplo de Dashboard](ejemplo.png)
+![Ejemplo de Dashboard](Ejemplo.png)
 
 Este proyecto en Power BI demuestra la importancia de elegir correctamente los métodos de ubicación de datos geográficos. Se presentan tres formas distintas de mapear datos y se explica cuál es la mejor práctica.
 
